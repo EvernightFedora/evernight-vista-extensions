@@ -1,0 +1,16 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Linglong Web Store
+Name[zh_CN]=如意玲珑应用商店
+Categories=System;
+Keywords=linglong;ll
+Keywords[zh_CN]=玲珑;如意玲珑
+Comment=Get and install Linglong Application
+Comment[zh_CN]=获取并安装如意玲珑应用商店的程序
+Exec=xdg-open https://store.linyaps.org.cn/
+Icon=linglong-store
+NoDisplay=false
+Terminal=false
+StartupNotify=true

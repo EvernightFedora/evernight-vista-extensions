@@ -1,0 +1,13 @@
+pref("browser.gnome-search-provider.enabled",true);
+pref("media.navigator.mediadatadecoder_vpx_enabled", true);
+pref("media.webrtc.camera.allow-pipewire", true);
+pref("widget.use-xdg-desktop-portal.file-picker", 1);
+pref("widget.use-xdg-desktop-portal.location", 1);
+pref("widget.use-xdg-desktop-portal.mime-handler", 1);
+pref("widget.use-xdg-desktop-portal.open-uri", 1);
+pref("widget.use-xdg-desktop-portal.settings", 1);
+pref("media.autoplay.default", 0);
+pref("media.webrtc.hw.h264.enabled", true);
+user_pref("font.name.monospace.zh-CN", "MiSans");
+user_pref("font.name.sans-serif.zh-CN", "MiSans");
+user_pref("font.name.serif.zh-CN", "MiSans");

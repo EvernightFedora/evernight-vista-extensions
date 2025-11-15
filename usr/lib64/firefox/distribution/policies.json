@@ -1,0 +1,40 @@
+{
+  "policies": {
+    "DisableFeedbackCommands": true,
+    "DisableTelemetry": true,
+    "DontCheckDefaultBrowser": true,
+    "EncryptedMediaExtensions": {
+      "Enabled": true
+    },
+    "Homepage": {
+      "StartPage": "homepage",
+      "URL": "https://space.bilibili.com/515586861"
+    },
+    "NoDefaultBookmarks": true,
+    "OverrideFirstRunPage": "https://space.bilibili.com/515586861",
+    "PasswordManagerEnabled": true,
+    "Preferences": {
+      "browser.tabs.warnOnClose": {
+        "Status": "locked",
+        "Type": "boolean",
+        "Value": true
+      },
+      "media.gmp-gmpopenh264.enabled": {
+        "Status": "locked",
+        "Type": "boolean",
+        "Value": true
+      },
+      "places.history.enabled": {
+        "Status": "locked",
+        "Type": "boolean",
+        "Value": true
+      }
+    },
+    "SearchEngines": {
+      "Default": "Bing",
+      "PreventInstalls": false
+    },
+    "SearchSuggestEnabled": false,
+    "SkipTermsOfUse": true
+  }
+}
