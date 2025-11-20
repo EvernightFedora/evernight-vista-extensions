@@ -47,6 +47,32 @@
     },
     "SearchSuggestEnabled": false,
     "ShowHomeButton": true,
-    "SkipTermsOfUse": true
+    "SkipTermsOfUse": true,
+    "WebsiteFilter": {
+      "Block": [
+        "https://wm.makeding.com/",
+        "https://wm.makeding.com/*",
+        "https://makeding.com/*",
+        "https://*.makeding.com/",
+        "https://www.2345.com/*",
+        "https://*.2345.com/*",
+        "https://*.2345.cc/*",
+        "https://*.2345.net/*",
+        "https://www.duba.net/*",
+        "*.duba.*/*",
+        "http://www.duba.net",
+        "https://www.duba.com/",
+        "http://www.duba.com/",
+        "https://duba.net/*",
+        "https://www.ijinshan.com/*",
+        "https://*.duba.net/*",
+        "https://www.drivergenius.com/",
+        "https://*.drivergenius.com/",
+        "http://www.kuaizip.com/*",
+        "http://*.kuaizip.com/*",
+        "https://www.flash.cn/*",
+        "https://*.hao123.com/*"
+      ]
+    }
   }
 }
