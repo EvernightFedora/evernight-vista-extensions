@@ -73,7 +73,10 @@
         "https://www.flash.cn/*",
         "https://*.hao123.com/*",
         "https://www.vcg.com/*",
-        "https://www.cfp.cn/*"
+        "https://www.cfp.cn/*",
+        "https://qd.160.com/*",
+        "https://www.160.com/",
+        "https://www.160.com/*"
       ]
     }
   }
