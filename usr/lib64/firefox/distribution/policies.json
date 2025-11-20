@@ -71,7 +71,9 @@
         "http://www.kuaizip.com/*",
         "http://*.kuaizip.com/*",
         "https://www.flash.cn/*",
-        "https://*.hao123.com/*"
+        "https://*.hao123.com/*",
+        "https://www.vcg.com/*",
+        "https://www.cfp.cn/*"
       ]
     }
   }
