@@ -1,6 +1,7 @@
 {
   "policies": {
     "DisableFeedbackCommands": true,
+    "DisableFirefoxStudies": true,
     "DisableTelemetry": true,
     "DontCheckDefaultBrowser": true,
     "EncryptedMediaExtensions": {
@@ -12,29 +13,40 @@
     },
     "NoDefaultBookmarks": true,
     "OverrideFirstRunPage": "https://space.bilibili.com/515586861",
+    "OverridePostUpdatePage": "",
     "PasswordManagerEnabled": true,
     "Preferences": {
-      "browser.tabs.warnOnClose": {
+      "browser.cache.disk.enable": {
         "Status": "locked",
         "Type": "boolean",
         "Value": true
+      },
+      "browser.urlbar.suggest.bookmark": {
+        "Status": "locked",
+        "Type": "boolean",
+        "Value": true
+      },
+      "browser.urlbar.suggest.history": {
+        "Status": "locked",
+        "Type": "boolean",
+        "Value": true
+      },
+      "extensions.getAddons.showPane": {
+        "Status": "locked",
+        "Type": "boolean",
+        "Value": false
       },
       "media.gmp-gmpopenh264.enabled": {
-        "Status": "locked",
-        "Type": "boolean",
-        "Value": true
-      },
-      "places.history.enabled": {
         "Status": "locked",
         "Type": "boolean",
         "Value": true
       }
     },
     "SearchEngines": {
-      "Default": "Bing",
-      "PreventInstalls": false
+      "Default": "Bing"
     },
     "SearchSuggestEnabled": false,
+    "ShowHomeButton": true,
     "SkipTermsOfUse": true
   }
 }
