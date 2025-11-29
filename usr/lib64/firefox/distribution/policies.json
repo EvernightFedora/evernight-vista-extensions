@@ -9,10 +9,10 @@
     },
     "Homepage": {
       "StartPage": "homepage",
-      "URL": "https://space.bilibili.com/515586861"
+      "URL": "https://bing.com/?ensearch=1"
     },
     "NoDefaultBookmarks": true,
-    "OverrideFirstRunPage": "https://space.bilibili.com/515586861",
+    "OverrideFirstRunPage": "https://bing.com/?ensearch=1",
     "OverridePostUpdatePage": "",
     "PasswordManagerEnabled": true,
     "Preferences": {
