@@ -117,7 +117,8 @@
         "https://www.passwordrecovery.cn/*",
         "https://www.pdffactorychina.cn/*",
         "https://www.crossoverchina.com/*",
-        "https://www.crossoverchina.com/*.html"
+        "https://www.crossoverchina.com/*.html",
+        "https://www.affinitychina.cn/*"
       ]
     }
   }
